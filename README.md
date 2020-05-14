@@ -1,6 +1,5 @@
 # NeuralSharp
 Simple Neural Network Library written from scratch
 
-NOT OPTIMIZED!
+NOT OPTIMIZED and messy code!
 
-Created for learning purposes only!
