@@ -1,5 +1,4 @@
-# Solves XOR Problem
-Simple Neural Network Library from scratch in C#
+Simple Neural Network that Solves Xor Problem
 Uses manip.cs for matrix operations
 
 NOT OPTIMIZED and messy code!
